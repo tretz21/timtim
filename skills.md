@@ -15,4 +15,4 @@
 
 [2nd link to home page](README.md)
 
-[3rd Link to home page](https://github.com/tretz21/timtim/blob/d507483fe1c9f4bb40f33a38adff0144836c8ee7/README.md)
+[3rd link using permalink - does not work](https://github.com/tretz21/timtim/blob/b26cb89266a8f693fc1654648d7cb9305d9c6215/README.md)
