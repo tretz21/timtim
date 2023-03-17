@@ -12,3 +12,5 @@
 1. Responsibility
 
 [Go back to home page](./README.md)
+
+[2nd link to home page](README.md)
